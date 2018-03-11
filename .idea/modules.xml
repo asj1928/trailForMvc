@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/trailForMvc.iml" filepath="$PROJECT_DIR$/.idea/modules/trailForMvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trailForMvc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trailForMvc_main.iml" group="trailForMvc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trailForMvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trailForMvc_test.iml" group="trailForMvc" />
     </modules>
   </component>
 </project>
